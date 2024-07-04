@@ -1,0 +1,14 @@
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/bin/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/bin/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.deps.json
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/bin/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.runtimeconfig.json
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/bin/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.dll
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/bin/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.pdb
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.AssemblyInfoInputs.cache
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.AssemblyInfo.cs
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.csproj.CoreCompileInputs.cache
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.dll
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/refint/2024-05-21_CA_LPG_ReadInputFile.dll
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.pdb
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/2024-05-21_CA_LPG_ReadInputFile.genruntimeconfig.cache
+/Users/davidchapa/Documents/GitHub/2024-05-21_CA_LPG_ReadInputFile/obj/Debug/net8.0/ref/2024-05-21_CA_LPG_ReadInputFile.dll
